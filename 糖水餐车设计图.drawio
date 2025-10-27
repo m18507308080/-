@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
+  <diagram name="第 1 页" id="GJktfWkMG5USXDEdGkrK">
+    <mxGraphModel dx="10201" dy="7338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#c5c7c9, #7d8c9b);fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="900" width="7086.599999999999" height="3031.49" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#131010, #ededed);fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1080" width="4999.99" height="2637.79" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="416.8499999999999" y="1260" width="4606.29" height="2244.0899999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-4" value="开心果糊" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=200;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="2448" width="1023.62" height="1023.62" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-7" value="红豆沙" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;fontSize=300;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1317" width="1023.62" height="1023.62" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-8" value="南瓜糊" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontSize=300;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1351.0000000000002" width="1023.62" height="1023.62" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-10" value="黑芝麻糊" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#201e1e, #ededed);fontSize=200;fontColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="530" y="2417" width="1023.62" height="1023.62" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-11" value="芋泥糊" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=300;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="1327" width="1023.62" height="1023.62" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-15" value="绿豆沙" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=300;" vertex="1" parent="1">
+          <mxGeometry x="3920" y="2457" width="1023.62" height="1023.62" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-16" value="杨枝甘露" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;fontSize=200;" vertex="1" parent="1">
+          <mxGeometry x="3920" y="1351" width="1023.62" height="1023.62" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-17" value="麻薯糊" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=300;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="2440" width="1023.62" height="1023.62" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-21" value="操作台" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#bac8d3;strokeColor=#23445d;fontSize=600;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="6360" width="2362.2" height="2362.2" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-22" value="冰柜" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=999;" vertex="1" parent="1">
+          <mxGeometry x="3025.83" y="6360" width="2364.1684999999998" height="2362.2" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-25" value="小料台" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fontSize=500;labelBackgroundColor=default;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="-1900" y="1500" width="2322.83" height="1496.06" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-27" value="摊主操作过道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=light-dark(#ffffff, #ededed);strokeColor=#6D1F00;labelBackgroundColor=light-dark(#f44e90, #ededed);fontSize=999;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="3970" width="7090" height="2362.2" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-28" value="顾客排队过道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;fontSize=999;labelBackgroundColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="-1500" width="7086.599999999999" height="2362.2" as="geometry" />
+        </mxCell>
+        <mxCell id="YBAA8Zlb6lOWlPwxbnCY-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="663.9000000000001" y="6360" width="2362.2" height="2362.2" as="geometry" />
+        </mxCell>
+        <mxCell id="DfGqqLo9Z9u7js28EYSG-1" value="白糖" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#eeeeee;strokeColor=#36393d;fontSize=150;" vertex="1" parent="1">
+          <mxGeometry x="-1496" y="3471.62" width="255.905" height="393.7" as="geometry" />
+        </mxCell>
+        <mxCell id="DfGqqLo9Z9u7js28EYSG-4" value="桂花" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#eeeeee;strokeColor=#36393d;fontSize=150;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="3480.62" width="255.905" height="393.7" as="geometry" />
+        </mxCell>
+        <mxCell id="DfGqqLo9Z9u7js28EYSG-5" value="坚果" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#eeeeee;strokeColor=#36393d;fontSize=150;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="3490" width="255.905" height="393.7" as="geometry" />
+        </mxCell>
+        <mxCell id="DfGqqLo9Z9u7js28EYSG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=105.92500000000001;entryPerimeter=0;" edge="1" parent="1" source="DfGqqLo9Z9u7js28EYSG-4" target="DfGqqLo9Z9u7js28EYSG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DfGqqLo9Z9u7js28EYSG-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="4910" y="3250" width="240" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="DfGqqLo9Z9u7js28EYSG-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="5040" y="8183" width="240" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="DfGqqLo9Z9u7js28EYSG-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="8200" width="240" height="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
