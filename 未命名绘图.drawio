@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="第 1 页" id="R9-fiKzJtMOpObYJFf59">
-    <mxGraphModel dx="15280" dy="10249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="24460" dy="10249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="99" y="1560" width="2283.46" height="3464.56" as="geometry" />
         </mxCell>
         <mxCell id="YZGV4TbjLfEgSWgYEdOY-39" value="多层置物架： 放工具 保温桶 设备 物料" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=500;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="4353" y="7380" width="3937" height="2362.2" as="geometry" />
+          <mxGeometry x="4500" y="7230" width="3937" height="2362.2" as="geometry" />
         </mxCell>
         <mxCell id="YZGV4TbjLfEgSWgYEdOY-40" value="0.6000 m" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10" y="13680" width="80" height="40.1574" as="geometry" />
@@ -128,10 +128,10 @@
           <mxGeometry x="6221.97" y="20360" width="3543.2999999999997" height="602.2" as="geometry" />
         </mxCell>
         <mxCell id="YZGV4TbjLfEgSWgYEdOY-46" value="电炖锅" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=300;" vertex="1" parent="1">
-          <mxGeometry x="11070" y="620" width="1379.9184999999998" height="1379.92" as="geometry" />
+          <mxGeometry x="11150" y="620" width="1379.9184999999998" height="1379.92" as="geometry" />
         </mxCell>
         <mxCell id="YZGV4TbjLfEgSWgYEdOY-48" value="电炖锅" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=300;" vertex="1" parent="1">
-          <mxGeometry x="9410" y="585" width="1377.9499999999998" height="1377.95" as="geometry" />
+          <mxGeometry x="9580" y="585" width="1377.9499999999998" height="1377.95" as="geometry" />
         </mxCell>
         <mxCell id="YZGV4TbjLfEgSWgYEdOY-97" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="5590" y="4620" width="1574.8" height="1574.8" as="geometry" />
